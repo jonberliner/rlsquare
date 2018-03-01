@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://jonberliner.github.io/rlsquare"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "RL**2"
 publishDir = "docs"
 theme = "ananke"
